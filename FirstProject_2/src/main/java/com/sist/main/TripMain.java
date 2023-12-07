@@ -146,7 +146,7 @@ public class TripMain {
 			System.out.println("===========================");
 		}
 		System.out.println(flist.size());
-		System.out.println(mlist.size();
+		System.out.println(mlist.size());
 	}
 }
 	
